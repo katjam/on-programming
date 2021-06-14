@@ -16,6 +16,7 @@ Note:
 - Developing software in small teams about 15 years. Work with non-profits to build digital tools that compliment their over-stretched services
 - I don't identify as a computer scientist or engineer - I just like using code to make stuff
 - not a mathematician nor a speedy typist don't need that to write reliable User Interfaces
+- Just a person
 
 ---
 
@@ -33,6 +34,7 @@ Note:
 
 ![](assets/images/anti-js.png)<!-- .element class="fragment inline" data-fragment-index="2" -->
 ![](assets/images/tools-choices.png)<!-- .element class="fragment inline" data-fragment-index="2" -->
+ TODO image humans talk to computers
 
 - read and write
 - learn and teach
@@ -66,6 +68,8 @@ Note:
 - if the technology changes 
 - if someone does something we weren't anticipating, they find a bug - beacause computers are not intelligent - they only know how to do the things we program them to do
 
+---
+
 ## What it means to teach and learn
 - make mistakes
 - teach each other
@@ -76,16 +80,21 @@ Note:
 Note:
 (9 min)
 
+---
+
 ## What it means to plan and make agreements
 - make plans
 - change plans
 - agree what complete means
 - agree tools to use
+- know when to re-use
+- know when to start again
 - agree deadlines
 
 Note:
 (12 min)
 
+---
 
 <!-- CONCLUDE AND SUMMARY -->
 ## What it means to create
