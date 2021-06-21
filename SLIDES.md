@@ -13,76 +13,93 @@
 
 Note:
 (1 min)
-- Developing software in small teams about 15 years. Work with non-profits to build digital tools that compliment their over-stretched services
-- I don't identify as a computer scientist or engineer - I just like using code to make stuff
-- not a mathematician nor a speedy typist don't need that to write reliable User Interfaces
-- Just a person
+- Developing software in small teams about 15 years. Work with charities to build digital tools that compliment their over-stretched services
 
 ---
 
 ## Assumptions
 
-TODO hacker gifs
+![](assets/images/hack1.gif)<!-- .element class="inline" -->
+![](assets/images/hack2.gif)<!-- .element class="inline" -->
+![](assets/images/functional-primer.png)
 
-![](assets/images/functional-primer.png)<!-- .element class="fragment" data-fragment-index="1" -->
 Note:
 (2 min)
+- Technically, I am a computer scientist or web engineer, but really, I just like to make stuff and I use code to do that
+- Don't need to be a mathematician nor a speedy typist to write reliable User Interfaces
+- Just a person
+
 
 +++
 
 ## Reality
 
-![](assets/images/anti-js.png)<!-- .element class="fragment inline" data-fragment-index="2" -->
-![](assets/images/tools-choices.png)<!-- .element class="fragment inline" data-fragment-index="2" -->
- TODO image humans talk to computers
+![](assets/images/computers.jpg)<!-- .element class="fragment inline" data-fragment-index="1" -->
+![](assets/images/humans.jpg)<!-- .element class="fragment inline" data-fragment-index="2" -->
+- read and write<!-- .element class="fragment inline" data-fragment-index="3" -->
+- learn and teach<!-- .element class="fragment inline" data-fragment-index="3" -->
+- plan and make agreements<!-- .element class="fragment inline" data-fragment-index="3" -->
+- create!<!-- .element class="fragment inline" data-fragment-index="4 -->
 
-- read and write
-- learn and teach
-- plan and make agreements
-
-- create
 
 Note:
 (3 min)
+- computers do like 1's and 0's and they can handle complicated networks of information
+- people like small pieces of information and pretty pictures
 - different depending on company and project
+- used to get requirements and write the code 
+- coder jobs exist too - code to spec - hire developers in india or china
 - most programmers do all of these things in different proportions
-- coder jobs exist too - code to spec - some companies that want to work like that hire developers in india, china or russia
+- (tick) I spend my days talking to people, breaking down problems
+- (tick) process & activity that makes a thing
 
 ---
 
 <!-- .element id="app-venture" data-transition="zoom" data-background="#8fcbdc" -->
 
-## What it means to read and write
-- write code
-- read code
-- read documentation
-- write documention
-- read blogs
-- write blogs
-- read stack traces
+### What it means to...
+## read and write
+- code
+- documentation
+- blogs
+- stack traces<!-- .element class="fragment inline" data-fragment-index="2" -->
+
+
+![](assets/images/react-anxious.jpg)<!-- .element class="wonk-img fragment inline" data-fragment-index="2" -->
+![](assets/images/stack-trace-example.png)<!-- .element class="fragment inline" data-fragment-index="2" -->
 
 Note:
 (6 min)
 - ultimately we need to tell the computer what we want it to do in every eventuality
 - later if what we want it to do changes, someone else - or us will have to understand the instructions we wrote so they can be altered
-- if the technology changes 
+- if the technology changes
+- messages from the computer
 - if someone does something we weren't anticipating, they find a bug - beacause computers are not intelligent - they only know how to do the things we program them to do
 
----
++++
 
-## What it means to teach and learn
+### What it means to...
+## teach and learn
 - make mistakes
 - teach each other
 - ask for help
 - learn new things
-- code review
+
+![](assets/images/anti-js.png)<!-- .element class="fragment inline" data-fragment-index="2" -->
+![](assets/images/elm-exhilerated.jpg)<!-- .element class="wonk-img fragment inline" data-fragment-index="2" -->
+![](assets/images/tools-choices.png)<!-- .element class="fragment inline" data-fragment-index="2" -->
 
 Note:
 (9 min)
+- team effort
+- teach through pairing and code review
+- just a few of the tools used in last 5 years for 1 part of job frontend web development
+- need to help each other keep up to date - one brain is not big enough for all of this
 
----
++++
 
-## What it means to plan and make agreements
+### What it means to...
+## plan and make agreements
 - make plans
 - change plans
 - agree what complete means
@@ -93,35 +110,39 @@ Note:
 
 Note:
 (12 min)
+- anything is possible, so it's important to narrow down priorities
+- the further into implementation, the more likely need to change
+- before starting work, agree what acceptance criteria
+- team needs to agree on tools and process
+- reuse vs bespoke on many levels
+- sometimes it all goes wrong or the plan changes so much, it's better to start again
+- Not like other products, software is never finished and it needs to be updated to remain compatible with devices and technologies we use.
+
++++
+
+### How we...
+## create
+
+
+![](assets/images/tea.jpg)<!-- .element class="fragment large-img" data-fragment-index="4"-->
+
+share - build - test - design - fix
+
+humble - inquisitive - flexible- methodical
+
+Note:
+- Use structured problem solving allows us to create together and predictably
+- Patterns known templates that work in situations are our tool kit
 
 ---
 
-<!-- CONCLUDE AND SUMMARY -->
-## What it means to create
-
-- all of those activities combine to problem solving so we can create
-
-Practice
-- share
-- build
-- test
-- design
-- fix
-
-Qualities
-- humble
-- inquisitive
-- flexible
-- methodical
-
-If programming is your job, it isn't supposed to be fun...
+Patterns and structure
 
 ![](assets/images/cards1.jpg)<!-- .element class="fragment inline" data-fragment-index="1"-->
 ![](assets/images/cards3.jpg)<!-- .element class="fragment inline" data-fragment-index="2"-->
 ![](assets/images/cards2.jpg)<!-- .element class="fragment inline" data-fragment-index="3"-->
-![](assets/images/cards-down.jpg)<!-- .element class="fragment" data-fragment-index="4"-->
+![](assets/images/cards-down.jpg)<!-- .element class="fragment inline" data-fragment-index="4"-->
 
-but it should make you feel proud.<!-- .element class="fragment" data-fragment-index="5"-->
 
 Note:
 (14 min)
@@ -129,6 +150,7 @@ Note:
 - Like a house of cards - what you do will be added to
 - Write code that is easy to understand later
 - We have a finite amount of time. Try to spend it building, testing and designing features; not discovering, discussing and fixing bugs.
+- only as strong as it's foundations, architecture and sum of it's parts
 
 ---
 
@@ -140,7 +162,9 @@ Ask me now
 
 -or-
 
-email me later &nbsp;katjamordaunt&#64;gmail.co.uk<!-- .element class="icon-envelop"-->
+&nbsp;katjamordaunt&#64;gmail.co.uk<!-- .element class="icon-envelop"-->
+
+### Thank you
 
 Note:
 (15 min)

@@ -6,12 +6,15 @@
 }
 
 .reveal section img.large-img {
-  max-height: 500px;
+  max-height: 310px;
 }
 
 .reveal section img.wonk-img {
-  margin: 10px 0 0 90px;
-  transform: rotate(40deg);
+  margin: 0 10px 0 0;
+  transform: rotate(10deg);
+  border: none;
+  background: none;
+  box-shadow: none;
 }
 
 .reveal section img.inline {
@@ -25,6 +28,7 @@
   list-style: none;
 }
 
+img.left,
 #thanks img {
   float: left;
   margin: 0 25px;
@@ -33,6 +37,6 @@
 .reveal section .stage-card img,
 #app-venture img{
   display: inline;
-  max-height: 270px;
+  max-height: 230px;
 }
 
