@@ -118,7 +118,7 @@ Note:
 - sometimes it all goes wrong or the plan changes so much, it's better to start again
 - Not like other products, software is never finished and it needs to be updated to remain compatible with devices and technologies we use.
 
-+++
+---
 
 ### How we...
 ## create
@@ -134,19 +134,23 @@ Note:
 - Use structured problem solving allows us to create together and predictably
 - Patterns known templates that work in situations are our tool kit
 
----
++++
 
-Patterns and structure
+Shared patterns and structure
 
 ![](assets/images/cards1.jpg)<!-- .element class="fragment inline" data-fragment-index="1"-->
 ![](assets/images/cards3.jpg)<!-- .element class="fragment inline" data-fragment-index="2"-->
 ![](assets/images/cards2.jpg)<!-- .element class="fragment inline" data-fragment-index="3"-->
 ![](assets/images/cards-down.jpg)<!-- .element class="fragment inline" data-fragment-index="4"-->
 
+Engineering
+
 
 Note:
 (14 min)
+- Not so different to other engineering disiplines
 - Our ultimate goal is reliable apps
+- Shared patterns and structure allow us to create together & learn from each other to make systems so complicated a single person could not possibly understand all the parts
 - Like a house of cards - what you do will be added to
 - Write code that is easy to understand later
 - We have a finite amount of time. Try to spend it building, testing and designing features; not discovering, discussing and fixing bugs.
@@ -156,15 +160,16 @@ Note:
 
 <!-- .element id="thanks" data-background="#8fcbdc" -->
 
-## Questions?
 
-Ask me now
+>> In this world, the ability to write code has become not just a desirable skill but a language that grants insider status to those who speak it. They have access to what in a more mechanical age would have been called the levers of power.
 
--or-
+Jason Tanz, Wired Magazine 2016
 
-&nbsp;katjamordaunt&#64;gmail.co.uk<!-- .element class="icon-envelop"-->
+### Questions?<!-- .element class="fragment inline" data-fragment-index="1"-->
 
-### Thank you
+&nbsp;katjamordaunt&#64;gmail.co.uk<!-- .element class="fragment inline icon-envelop" data-fragment-index="1"-->
+#### or ask me now!<!-- .element class="fragment inline" data-fragment-index="1"-->
+
 
 Note:
 (15 min)
